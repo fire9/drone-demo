@@ -1,0 +1,10 @@
+{
+  "name": "drone-demo",
+  "version": "1.0.0",
+  "description": "drone demo",
+  "main": "index.js",
+  "repository": "https://github.com/fire9/drone-demo.git",
+  "author": "fire9",
+  "license": "MIT",
+  "private": false
+}
